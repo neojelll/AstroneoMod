@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astroneo", "Astroneo.csproj", "{D3AB4BBA-7789-684A-F6B0-68E7EB28DFED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AB4BBA-7789-684A-F6B0-68E7EB28DFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AB4BBA-7789-684A-F6B0-68E7EB28DFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AB4BBA-7789-684A-F6B0-68E7EB28DFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AB4BBA-7789-684A-F6B0-68E7EB28DFED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDD4976F-AB1C-4D7F-BE8C-1AB6E4B11039}
+	EndGlobalSection
+EndGlobal
