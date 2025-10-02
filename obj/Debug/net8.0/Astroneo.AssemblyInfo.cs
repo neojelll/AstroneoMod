@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Astroneo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a8abce1dfbeccd06ad116e58afd4b208045f364")]
 [assembly: System.Reflection.AssemblyProductAttribute("Astroneo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Astroneo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
